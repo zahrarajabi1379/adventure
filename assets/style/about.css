@@ -6,7 +6,7 @@
 
 .container {
   width: 100%;
-  padding: 0 85px;
+
 }
 .cta {
   display: flex;
@@ -15,6 +15,7 @@
   justify-content: center;
   text-align: center;
   margin-top: 100px;
+  
 }
 .cta h1 {
   font-size: 100px;
