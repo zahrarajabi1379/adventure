@@ -240,7 +240,7 @@
     flex-direction: column;
     justify-content: space-between;
     align-items: center;
-    margin-top: 55%;
+    margin-top: 65%;
   }
   .image {
     width: 70vw;
@@ -379,7 +379,7 @@
     flex-direction: column;
     justify-content: space-between;
     align-items: center;
-    margin-top: 105%;
+    margin-top: 145%;
   }
   .image {
     width: 70vw;
@@ -398,7 +398,10 @@
     direction: ltr;
   }
   .link {
-    width: 21%;
+    width: 24%;
+  }
+  .image2{
+    height: 70vh;
   }
   .container4 {
     display: flex;
@@ -409,6 +412,7 @@
   }
   .image3 {
     width: 70%;
+    height: 30vh;
   }
   .container5 {
     display: flex;
@@ -428,7 +432,7 @@
     padding: 12%;
   }
   .link1 {
-    width: 21%;
+    width: 24%;
   }
   .container6 {
     display: flex;
@@ -465,13 +469,16 @@
     padding: 10%;
   }
   .container9{
-    height: 100vh;
+    height: 37vh;
   }
   .container9 > p {
     font-size: 5vw;
     text-align: justify;
     direction: ltr;
     padding: 10%;
+  }
+  .image6{
+    height: 70vh;
   }
   .container10{
     display: flex;
@@ -487,10 +494,12 @@
     display: flex;
     flex-direction: column;
         align-items: center;
+        height: 60vh;
   }
   .image7{
     width: 70%;
     margin-top: 10%;
+    height: 40vh;
   }
   .container12{
     margin-top: 4%;
